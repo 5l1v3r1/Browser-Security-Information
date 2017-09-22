@@ -25,3 +25,5 @@
 [Windows 10 x64 Edge CVE-2016-7200 & CVE-2016-7201漏洞分析及利用](http://repwn.com/archives/25/)
 
 [CVE-2016-7288 漏洞分析](http://www.jianshu.com/p/5a599063f8b2)
+
+[Project Zero模糊测试5个最常用的浏览器DOM引擎](https://googleprojectzero.blogspot.de/2017/09/the-great-dom-fuzz-off-of-2017.html)
