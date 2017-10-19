@@ -27,3 +27,5 @@
 [CVE-2016-7288 漏洞分析](http://www.jianshu.com/p/5a599063f8b2)
 
 [Project Zero模糊测试5个最常用的浏览器DOM引擎](https://googleprojectzero.blogspot.de/2017/09/the-great-dom-fuzz-off-of-2017.html)
+
+[Browser security beyond sandboxing](https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite)
