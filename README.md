@@ -31,3 +31,6 @@
 [Browser security beyond sandboxing](https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite)
 
 [from-out-of-memory-to-remote-code-execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
+[SandboxEscaper - Vulnerability Researcher](http://sandboxescaper.blogspot.be/2018/01/escaping-edge-sandbox.html)
+
+[X41-Browser-Security-White-Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
