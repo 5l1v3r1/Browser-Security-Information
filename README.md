@@ -34,3 +34,5 @@
 [SandboxEscaper - Vulnerability Researcher](http://sandboxescaper.blogspot.be/2018/01/escaping-edge-sandbox.html)
 
 [X41-Browser-Security-White-Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
+
+[build Google Chrome's 1day exploit](https://github.com/theori-io/zer0con2018_bpak/blob/master/Chrome_Analysis_Zer0Con_2018_Final.pdf)
