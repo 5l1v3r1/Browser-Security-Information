@@ -36,3 +36,5 @@
 [X41-Browser-Security-White-Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
 
 [build Google Chrome's 1day exploit](https://github.com/theori-io/zer0con2018_bpak/blob/master/Chrome_Analysis_Zer0Con_2018_Final.pdf)
+
+[深入理解Double Free：CVE-2015-2419 Exploit分析](https://www.freebuf.com/vuls/188558.html)
