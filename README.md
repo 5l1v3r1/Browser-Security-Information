@@ -38,3 +38,7 @@
 [build Google Chrome's 1day exploit](https://github.com/theori-io/zer0con2018_bpak/blob/master/Chrome_Analysis_Zer0Con_2018_Final.pdf)
 
 [深入理解Double Free：CVE-2015-2419 Exploit分析](https://www.freebuf.com/vuls/188558.html)
+
+[Chrome: Integer overflow in NewFixedDoubleArray](https://bugs.chromium.org/p/project-zero/issues/detail?id=1793)
+
+[CVE-2018-18500：利用火狐的堆漏洞进行攻击](https://paper.tuisec.win/detail/7dd2bb601c1cdac)
