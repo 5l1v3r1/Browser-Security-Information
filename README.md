@@ -42,3 +42,5 @@
 [Chrome: Integer overflow in NewFixedDoubleArray](https://bugs.chromium.org/p/project-zero/issues/detail?id=1793)
 
 [CVE-2018-18500：利用火狐的堆漏洞进行攻击](https://paper.tuisec.win/detail/7dd2bb601c1cdac)
+
+(Webkit Exploitation Tutorial)[http://www.auxy.xyz/tutorial/2018/12/05/Webkit-Exp-Tutorial.html]
