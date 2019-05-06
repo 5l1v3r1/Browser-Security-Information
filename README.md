@@ -44,3 +44,7 @@
 [CVE-2018-18500：利用火狐的堆漏洞进行攻击](https://paper.tuisec.win/detail/7dd2bb601c1cdac)
 
 [Webkit Exploitation Tutorial](http://www.auxy.xyz/tutorial/2018/12/05/Webkit-Exp-Tutorial.html)
+
+[Apple Safari –
+PWN2OWN Desktop
+Exploit](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-pwn2own-vuln-write-up-2018-10-29-final.pdf)
