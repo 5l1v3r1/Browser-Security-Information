@@ -59,3 +59,6 @@ Exploit](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-pwn2own-
 Section Exploit ](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-wasm-section-vuln-write-up-2018-04-16.pdf)
 
 [Firefox JavaScript Type Confusion RCE](https://ssd-disclosure.com/archives/3765)
+
+[FuzzIL: Coverage Guided Fuzzing for
+JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
