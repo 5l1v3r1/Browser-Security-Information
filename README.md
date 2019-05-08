@@ -48,3 +48,12 @@
 [Apple Safari –
 PWN2OWN Desktop
 Exploit](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-pwn2own-vuln-write-up-2018-10-29-final.pdf)
+
+[CVE-2018-4441: OOB R/W via JSArray::unshiftCountWithArrayStorage (WebKit)](https://melligra.fun/webkit/2019/02/15/cve-2018-4441/)
+
+[blackhat_us_18_attacking_client_side_jit_compilers.pd](https://saelo.github.io/presentations/blackhat_us_18_attacking_client_side_jit_compilers.pdf)
+
+[cve-2017-2446-or-jscjsglobalobjectishavingabadtime](https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/)
+
+[Apple Safari - Wasm
+Section Exploit ](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-wasm-section-vuln-write-up-2018-04-16.pdf)
