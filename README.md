@@ -62,3 +62,5 @@ Section Exploit ](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari
 
 [FuzzIL: Coverage Guided Fuzzing for
 JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
+
+[cve-2019-5825-v8-exploit](http://lordofpwn.kr/index.php/writeup/cve-2019-5825-v8-exploit/)
