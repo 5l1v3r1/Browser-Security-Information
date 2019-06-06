@@ -66,3 +66,5 @@ JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
 [cve-2019-5825-v8-exploit](http://lordofpwn.kr/index.php/writeup/cve-2019-5825-v8-exploit/)
 
 [cve-2019-8506-javascriptcore-exploit](http://lordofpwn.kr/index.php/writeup/cve-2019-8506-javascriptcore-exploit/)
+
+[jsctales](http://iokit.racing/jsctales.pdf)
