@@ -68,3 +68,5 @@ JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
 [cve-2019-8506-javascriptcore-exploit](http://lordofpwn.kr/index.php/writeup/cve-2019-8506-javascriptcore-exploit/)
 
 [jsctales](http://iokit.racing/jsctales.pdf)
+
+[AttackingTurboFan_TyphoonCon_2019](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf)
