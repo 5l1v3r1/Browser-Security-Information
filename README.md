@@ -70,3 +70,7 @@ JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
 [jsctales](http://iokit.racing/jsctales.pdf)
 
 [AttackingTurboFan_TyphoonCon_2019](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf)
+
+[Using-the-JIT-Vulnerability-to-Pwning-Microsoft-Edge](https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Li-Using-the-JIT-Vulnerability-to-Pwning-Microsoft-Edge.pdf)
+
+[cve-2019-0539-root-cause-analysis](https://perception-point.io/resources/research/cve-2019-0539-root-cause-analysis/)
