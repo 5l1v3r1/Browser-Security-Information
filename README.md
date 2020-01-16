@@ -74,3 +74,5 @@ JavaScript Engines](https://saelo.github.io/papers/thesis.pdf)
 [Using-the-JIT-Vulnerability-to-Pwning-Microsoft-Edge](https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Li-Using-the-JIT-Vulnerability-to-Pwning-Microsoft-Edge.pdf)
 
 [cve-2019-0539-root-cause-analysis](https://perception-point.io/resources/research/cve-2019-0539-root-cause-analysis/)
+
+[Review of Chromium IPC vulnerabilities](https://securitylab.github.com/research/chromium-ipc-vulnerabilities)
